@@ -41,7 +41,7 @@ This IoT-based toll collection system is designed to simplify toll management by
 
 **Note:** Refer to the wiring diagram below for exact pin connections.
   
-![Wiring Diagram](#) <!-- Replace with image link -->
+![Wiring Diagram](#) ![3-Figure4-1](https://github.com/user-attachments/assets/e92bad67-6575-4f77-b8c1-00b10a43d424)
 
 ## How It Works
 1. **Card Detection**: When a vehicle’s RFID card is scanned, the system checks if it matches any registered card.
@@ -83,8 +83,6 @@ This code handles:
 ## Photos and Videos
 - **Photos**: Add images showing the hardware setup and various system states.
 - **Video**: A working demo video of the project in action.
-  
-![Circuit diagram of the project](#) ![3-Figure4-1](https://github.com/user-attachments/assets/e92bad67-6575-4f77-b8c1-00b10a43d424)
 
 ![Project Setup Photo](#) ![WhatsApp Image 2024-07-17 at 20 58 59_c2296f88](https://github.com/user-attachments/assets/2defafa4-9d37-4240-ab64-6a029836c8dd)
 
