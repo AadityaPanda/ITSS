@@ -52,6 +52,8 @@ This IoT-based toll collection system is designed to simplify toll management by
 3. **Data Logging**: ESP32 logs the transaction in Google Sheets, including date, time, and vehicle UID.
 4. **Transaction Logging**: Each transaction is recorded in a Google Sheet, maintaining a record of all toll activity.
 
+![Flowchart](https://github.com/user-attachments/assets/175c2886-e0e8-4a3f-afea-2d738290a0d8)
+
 ## Installation and Setup
 
 ### 1. Configure Google Sheets for Data Logging
