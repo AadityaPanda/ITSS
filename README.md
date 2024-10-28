@@ -41,7 +41,7 @@ This IoT-based toll collection system is designed to simplify toll management by
 
 **Note:** Refer to the wiring diagram below for exact pin connections.
   
-![Wiring Diagram] ![3-Figure4-1](https://github.com/user-attachments/assets/e92bad67-6575-4f77-b8c1-00b10a43d424 (Wiring Diagram))
+![Wiring Diagram](![3-Figure4-1](https://github.com/user-attachments/assets/e92bad67-6575-4f77-b8c1-00b10a43d424))
 
 ## How It Works
 1. **Card Detection**: When a vehicle’s RFID card is scanned, the system checks if it matches any registered card.
@@ -84,11 +84,11 @@ This code handles:
 - **Photos**: Add images showing the hardware setup and various system states.
 - **Video**: A working demo video of the project in action.
 
-![Project Setup Photo](#) ![WhatsApp Image 2024-07-17 at 20 58 59_c2296f88](https://github.com/user-attachments/assets/2defafa4-9d37-4240-ab64-6a029836c8dd)
+![Project Setup Photo](![WhatsApp Image 2024-07-17 at 20 58 59_c2296f88](https://github.com/user-attachments/assets/2defafa4-9d37-4240-ab64-6a029836c8dd)) 
 
-![Mobile App Setup Photo](#) ![IMG_20240911_223336](https://github.com/user-attachments/assets/9ed33d64-123f-43f1-8d25-c4fbd5f8b9da)
+![Mobile App Setup Photo](![IMG_20240911_223336](https://github.com/user-attachments/assets/9ed33d64-123f-43f1-8d25-c4fbd5f8b9da)) 
 
-[![Demo Video](#)] (https://github.com/user-attachments/assets/0ea25cf5-f0e4-4691-a693-c85824085ca1)
+[![Demo Video]((https://github.com/user-attachments/assets/0ea25cf5-f0e4-4691-a693-c85824085ca1))] 
 
 ## Future Enhancements
 - **Multiple Payment Options**: Integrate with online payment gateways.
