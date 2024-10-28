@@ -59,10 +59,10 @@ This IoT-based toll collection system is designed to simplify toll management by
 2. Replace the `serverName` URL in `ESP32` code with your Google Apps Script web app URL.
 
 ### 2. Code and Upload
-1. Upload **ESP32 Code** to the ESP32:
-   - Ensure `WiFi.h`, `HTTPClient.h`, and `TimeLib.h` libraries are installed.
-2. Upload **Arduino Uno Code** to the Arduino Uno:
+1. Upload **Arduino Uno Code** to the Arduino Uno:
    - Make sure to install `Wire.h`, `LiquidCrystal_I2C.h`, `Servo.h`, `MFRC522.h`, `SPI.h`, and `SoftwareSerial.h` libraries.
+2. Upload **ESP32 Code** to the ESP32:
+   - Ensure `WiFi.h`, `HTTPClient.h`, and `TimeLib.h` libraries are installed.
 
 ### 3. Testing
 1. Connect all components and power on the system.
@@ -70,18 +70,18 @@ This IoT-based toll collection system is designed to simplify toll management by
 
 ## Code Overview
 
-### ESP32 Code
-This code handles:
-- **WiFi Connection**: Connects to WiFi for Google Sheets communication.
-- **RFID UID Validation**: Receives UID from Arduino, validates length.
-- **Data Logging**: Sends JSON data to Google Sheets API for record-keeping.
-
 ### Arduino Uno Code
 This code handles:
 - **RFID Scanning**: Reads and validates RFID cards.
 - **Gate Control**: Operates the gate servo motor for authorized vehicles.
 - **LCD Display**: Displays vehicle information and status messages.
 - **Buzzer Alerts**: Provides audible feedback based on vehicle status.
+
+### ESP32 Code
+This code handles:
+- **WiFi Connection**: Connects to WiFi for Google Sheets communication.
+- **RFID UID Validation**: Receives UID from Arduino, validates length.
+- **Data Logging**: Sends JSON data to Google Sheets API for record-keeping.
 
 ## Photos and Videos
 - **Photos**: Add images showing the hardware setup and various system states.
