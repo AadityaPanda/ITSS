@@ -86,9 +86,6 @@ This code handles:
 - **Data Logging**: Sends JSON data to Google Sheets API for record-keeping.
 
 ## Photos and Videos
-- **Photos**: Add images showing the hardware setup and various system states.
-- **Video**: A working demo video of the project in action.
-
 ### Project Setup
 ![Hardware Setup](https://github.com/user-attachments/assets/7b945ba4-c151-4bfd-968c-ad3c9c1216a3)
 
