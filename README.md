@@ -9,7 +9,12 @@ This project uses **ESP32** and **Arduino Uno** to automate toll collection by d
 - [Wiring and Hardware Setup](#wiring-and-hardware-setup)
 - [How It Works](#how-it-works)
 - [Installation and Setup](#installation-and-setup)
+  * [Code and Upload](#code-and-upload)
+  * [Configure Gogle Sheets for Data Logging](#configure-google-sheets-for-data-logging)
+  * [Testing](#testing)
 - [Code Overview](#code-overview)
+  * [Arduino Uo Code](#arduino-uno-code)
+  * [ESP32 Code](#esp32-code)
 - [Photos and Videos](#photos-and-videos)
   * [Project Setup](#project-setup)
   * [Mobile App Setup](#mobile-app-setup)
@@ -56,15 +61,15 @@ This IoT-based toll collection system is designed to simplify toll management by
 
 ## Installation and Setup
 
-### 1. Configure Google Sheets for Data Logging
-1. Create a **Google Sheet** and deploy a **Google Apps Script** as a web app. Set permissions to allow anyone to log data.
-2. Replace the `serverName` URL in `ESP32` code with your Google Apps Script web app URL.
-
-### 2. Code and Upload
+### 1. Code and Upload
 1. Upload **Arduino Uno Code** to the Arduino Uno:
    - Make sure to install `Wire.h`, `LiquidCrystal_I2C.h`, `Servo.h`, `MFRC522.h`, `SPI.h`, and `SoftwareSerial.h` libraries.
 2. Upload **ESP32 Code** to the ESP32:
    - Ensure `WiFi.h`, `HTTPClient.h`, and `TimeLib.h` libraries are installed.
+
+### 2. Configure Google Sheets for Data Logging
+1. Create a **Google Sheet** and deploy a **Google Apps Script** as a web app. Set permissions to allow anyone to log data.
+2. Replace the `serverName` URL in `ESP32` code with your Google Apps Script web app URL.
 
 ### 3. Testing
 1. Connect all components and power on the system.
