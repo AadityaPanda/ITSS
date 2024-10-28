@@ -40,8 +40,8 @@ This IoT-based toll collection system is designed to simplify toll management by
 4. **LCD Screen**: Connect LCD to Arduino Uno through I2C.
 
 **Note:** Refer to the wiring diagram below for exact pin connections.
-  
-(![3-Figure4-1](https://github.com/user-attachments/assets/138a8d2a-edbf-4aa4-9d84-67e183334222))
+
+![Circuit Diagram](https://github.com/user-attachments/assets/3eb5dfe1-39d4-4e7b-bc8f-289559f5a825)
 
 ## How It Works
 1. **Card Detection**: When a vehicle’s RFID card is scanned, the system checks if it matches any registered card.
@@ -85,13 +85,13 @@ This code handles:
 - **Video**: A working demo video of the project in action.
 
 ### Project Setup Photo
-(![WhatsApp Image 2024-07-17 at 20 58 59_c2296f88](https://github.com/user-attachments/assets/520e1b90-76ff-443d-900d-9045d79e2e8d)) 
+![Hardware Setup](https://github.com/user-attachments/assets/7b945ba4-c151-4bfd-968c-ad3c9c1216a3)
 
 ### Mobile App Setup Photo
-(![IMG_20240911_223336](https://github.com/user-attachments/assets/89b8bac7-f2ae-48f5-b0dd-ff5d91b62273)) 
+![Mobile App](https://github.com/user-attachments/assets/e2d3197d-90f5-4a4d-a544-b3b0ea7d78de)
 
 ### Demo Video
-(https://github.com/user-attachments/assets/4a47b2a0-12c2-4a0b-9408-29a8dfe11535) 
+https://github.com/user-attachments/assets/a4f83c5d-da9a-4461-9b8c-217969dc770b
 
 ## Future Enhancements
 - **Multiple Payment Options**: Integrate with online payment gateways.
