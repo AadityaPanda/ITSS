@@ -11,6 +11,9 @@ This project uses **ESP32** and **Arduino Uno** to automate toll collection by d
 - [Installation and Setup](#installation-and-setup)
 - [Code Overview](#code-overview)
 - [Photos and Videos](#photos-and-videos)
+  * [Project Setup](#project-setup)
+  * [Mobile App Setup](#mobile-app-setup)
+  * [Demo Video](#demo-video)
 - [Future Enhancements](#future-enhancements)
 
 ## Overview
@@ -84,10 +87,10 @@ This code handles:
 - **Photos**: Add images showing the hardware setup and various system states.
 - **Video**: A working demo video of the project in action.
 
-### Project Setup Photo
+### Project Setup
 ![Hardware Setup](https://github.com/user-attachments/assets/7b945ba4-c151-4bfd-968c-ad3c9c1216a3)
 
-### Mobile App Setup Photo
+### Mobile App Setup
 ![Mobile App](https://github.com/user-attachments/assets/e2d3197d-90f5-4a4d-a544-b3b0ea7d78de)
 
 ### Demo Video
