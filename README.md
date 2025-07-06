@@ -393,8 +393,8 @@ We welcome contributions to improve the IoT Toll System! Here's how you can help
 
 ## 📞 **Support & Contact**
 
-- **📧 Email:** [Your Email]
-- **🐙 GitHub Issues:** [Repository Issues]
+- **📧 Email:** aadityapanda23@gmail.com
+- **🐙 GitHub Issues:** [[Repository Issues]](https://github.com/AadityaPanda/ITSS/issues)
 - **📄 IEEE Paper:** [https://ieeexplore.ieee.org/document/10993585](https://ieeexplore.ieee.org/document/10993585)
 
 ---
